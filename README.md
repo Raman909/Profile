@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with pure React.js showcasing my skills, projects, and professional experience as a Software Developer and AI/ML enthusiast.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/7c3aed/ffffff?text=Raman+Portfolio+Website)
+![Portfolio Preview]https://raman2543.netlify.app/
 
 ## 🌟 Features
 
@@ -102,31 +102,7 @@ Update the following files with your personal details:
 - **src/pages/Projects.js** - Add your projects with descriptions and links
 - **src/pages/Contact.js** - Update contact information and social media links
 
-### Color Theme
-Modify the CSS custom properties in **src/App.css**:
 
-```css
-:root {
-  --primary-color: #7c3aed;      /* Main brand color */
-  --secondary-color: #06b6d4;    /* Accent color */
-  --accent-color: #f59e0b;       /* Highlight color */
-}
-```
-
-### Adding New Projects
-To add a new project, update the `projects` array in **src/pages/Projects.js**:
-
-```javascript
-{
-  id: 7,
-  name: "Your Project Name",
-  description: "Project description...",
-  tech: ["React", "Node.js", "MongoDB"],
-  github: "https://github.com/yourusername/project",
-  live: "https://yourproject.netlify.app",
-  status: "Completed"
-}
-```
 
 ## 📱 Responsive Breakpoints
 
@@ -185,49 +161,17 @@ The website supports both light and dark themes with the following features:
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 📝 Future Improvements
 
-### Planned Features
-- [ ] **Blog Section** - Add a blog for technical articles
-- [ ] **Project Filtering** - Filter projects by technology or category
-- [ ] **Animations** - Add more sophisticated CSS animations
-- [ ] **SEO Optimization** - Meta tags and structured data
-- [ ] **Analytics Integration** - Google Analytics or similar
-- [ ] **Contact Form Backend** - Connect form to email service
-- [ ] **Project Gallery** - Add image galleries for projects
-- [ ] **Testimonials** - Add client testimonials section
-- [ ] **Resume Download** - PDF resume download feature
-- [ ] **Multi-language Support** - Internationalization
 
-### Technical Improvements
-- [ ] **PWA Features** - Make it a Progressive Web App
-- [ ] **Performance Monitoring** - Add performance tracking
-- [ ] **Accessibility Audit** - Comprehensive a11y improvements
-- [ ] **Code Splitting** - Implement React.lazy for better performance
-- [ ] **Service Worker** - Offline functionality
-- [ ] **Image Optimization** - WebP format and lazy loading
 
-## 🤝 Contributing
-
-While this is a personal portfolio, suggestions and improvements are welcome:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
 **Raman Kumar Mishra**
 - Email: [ramanmishra25432543@gmail.com](mailto:ramanmishra25432543@gmail.com)
 - Phone: [+91 9555190209](tel:+919555190209)
-- LinkedIn: [linkedin.com/Raman](https://linkedin.com/Raman)
-- GitHub: [github.com/Raman](https://github.com/Raman)
+- LinkedIn: [linkedin.com/Raman](https://www.linkedin.com/in/raman-mishra-80a703261/)
+- GitHub: [github.com/Raman](https://github.com/Raman909)
 - Location: Noida, Uttar Pradesh, India
 
 ## 🙏 Acknowledgments
